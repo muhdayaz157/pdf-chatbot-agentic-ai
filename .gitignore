@@ -1,0 +1,13 @@
+@"
+# Secrets / API keys
+.env
+
+# Virtual environment
+venv/
+__pycache__/
+*.py[cod]
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.log
